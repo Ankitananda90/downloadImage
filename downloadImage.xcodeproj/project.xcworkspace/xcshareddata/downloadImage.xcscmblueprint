@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BB0C82EC11F90B80833512C80BBFD6181537FE91",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0836683DB98A760DB97711ECE26B43D99EC475F2" : 0,
+    "BB0C82EC11F90B80833512C80BBFD6181537FE91" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F3D54C48-85B8-486B-BDBC-1E5A2A42D435",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0836683DB98A760DB97711ECE26B43D99EC475F2" : "",
+    "BB0C82EC11F90B80833512C80BBFD6181537FE91" : "downloadImage\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "downloadImage",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "downloadImage.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Ankitananda90\/tables.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0836683DB98A760DB97711ECE26B43D99EC475F2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Ankitananda90\/tables.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB0C82EC11F90B80833512C80BBFD6181537FE91"
+    }
+  ]
+}
